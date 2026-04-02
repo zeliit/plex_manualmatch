@@ -1,6 +1,6 @@
 id: "manual_match"
 name: "수동 매치"
-description: "라이브러리에서 문제가 있는 항목을 진단하고 수동으로 매칭합니다."
+description: "라이브러리에서 포스터가 없는 항목을 진단하고 수동으로 매칭합니다."
 version: "0.1.3"
 icon: "fas fa-magic"
 entry_file: "main.py"
